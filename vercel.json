@@ -1,0 +1,6 @@
+{
+  "project": "agentic-25e44c87",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "ignoreCommand": "echo"
+}
